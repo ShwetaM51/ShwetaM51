@@ -1,5 +1,5 @@
--👋 Hi, I'm Shweta Bhalerao, a Full Stack Developer 🚀 from Dublin, Ireland.
--💼 I work at Mastercard as SDE-2;
+- 👋 Hi, I'm Shweta Bhalerao, a Full Stack Developer 🚀 from Dublin, Ireland.
+- 💼 I work at Mastercard as SDE-2;
 -👨🏽‍💻 I’m currently looking for Software Engineer opportunities;
 -🌱 I’m currently learning Artificial Intelligence and working heavily on backend systems;
 -🤔 I’m looking for help with guidance in AI learning strategies;
