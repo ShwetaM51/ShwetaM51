@@ -40,14 +40,3 @@
 **Testing & Tooling**
 `JUnit` · `Mockito` · `Postman` · `Jira` · `Git` · `IntelliJ` · `VS Code`
 
----
-
-### 📊 GitHub Stats
-![Shweta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShwetaM51&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShwetaM51&layout=compact)
-
-<!---
-ShwetaM51/ShwetaM51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
