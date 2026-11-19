@@ -1,63 +1,63 @@
 # 👋 Hi, I'm Shweta Bhalerao
 
-**Technical Program Manager · Senior Software Engineer** | Distributed Systems & AI Platforms
+**Senior Software Engineer** | Technical Program Management | Distributed Systems & AI Platforms
 
-🚀 6+ years driving cross-functional technical programs from roadmap to launch, backed by hands-on engineering in distributed systems and AI/LLM platforms.
+🚀 6+ years building scalable backend systems and AI-powered platforms, and leading cross-team work from design to launch.
 
 🌐 [Portfolio](https://shwetam51.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/shwetabhaleraotech/)
 
 ---
 
 ### 🔭 About Me
-- 📋 Started my career as an **Associate Technical Program Manager** at **L&T Infotech**, then led engineering work at **Equifax**, **Mastercard**, and **Talent.com**
-- 🎯 I drive programs end to end: scope, roadmap, milestones, dependencies, risk, and stakeholder alignment
-- 🤖 Led the roadmap and launch of a conversational AI job-search assistant at Talent.com
-- 💳 Led delivery of a PSD2-compliant virtual card issuance platform at Mastercard, running at 99.99% uptime
-- 🎓 MS Engineering Management, Trine University (in progress) · MSc Computer Science, University College Dublin
+- 💼 Senior Software Engineer with experience at **Talent.com**, **Mastercard**, and **Equifax**
+- 🤖 Building AI and agentic systems: RAG, LangGraph orchestration, model routing, vector search, and LLM evaluation
+- ⚙️ Deep in distributed backend systems: Java, Python, Spring Boot, Kafka, Kubernetes
+- 📋 Started my career as an **Associate Technical Program Manager** at **L&T Infotech**, so I also lead the delivery side: roadmaps, dependencies, risk, and stakeholders
+- 🎓 MSc Computer Science, University College Dublin · MS Engineering Management, Trine University (in progress)
 - 🌱 Currently building an **AI Program Status Assistant** that tracks GitHub milestones and dependencies and drafts weekly status reports
-- 💬 Ask me about technical program management, AI platforms, or system design
+- 💬 Ask me about backend systems, AI engineering, system design, or running technical programs
 - 📫 Reach me: shwetabhalerao.tech@gmail.com
 
 ---
 
-### 📈 Programs at a Glance
+### 📈 Selected Work
 
-| Program | Company | Role | Outcome |
+| Project | Company | Role | Impact |
 | --- | --- | --- | --- |
-| Conversational AI job-search assistant | Talent.com | Tech Lead | +70% search outcome quality, +45% decision accuracy |
-| PSD2 virtual card issuance platform | Mastercard | Tech Lead | 99.99% uptime, 70% faster releases, 40% fewer production defects |
-| Enterprise data platform | Equifax | SDE II | 100K+ daily active users, +30% scalability and reliability |
+| Conversational AI job-search assistant | Talent.com | Senior SDE, Tech Lead | +70% search outcome quality, +45% decision accuracy |
+| PSD2 virtual card issuance platform | Mastercard | SDE II, Tech Lead | 99.99% uptime, 70% faster releases, 40% fewer production defects |
+| Enterprise data platform | Equifax | SDE II | 100K+ daily active users, +30% scalability and reliability, +40% throughput |
 | Client service delivery | L&T Infotech | Associate TPM | Incident and change management across 4 teams, SLA tracking, weekly client reporting |
 
 ---
 
-### 🧭 How I Run Programs
-- **Understand the system first:** I read the design docs, so estimates, risks, and tradeoffs get real scrutiny
+### 🧭 How I Work
+- **Understand the system first:** design docs and code paths before estimates and tradeoffs
+- **Design for failure:** idempotency, retries, and failover planned in, not patched in
 - **Make risk visible early:** one list of risks and dependencies, with owners, reviewed every week
-- **Keep one source of truth:** roadmap, milestones, and status live in one place
-- **Measure what matters:** success metrics agreed before launch, from SLOs to AI quality metrics
+- **Measure what matters:** SLOs for platforms, evaluation metrics for AI, agreed before launch
 
 ---
 
-### 🛠️ Skills & Tools
+### 🛠️ Languages & Tools
 
-**Program Management**
-`Roadmapping` · `Scope & Requirements` · `Dependency & Risk Management` · `Release Management` · `Stakeholder Management` · `OKRs & KPIs`
-
-**Methodologies**
-`Agile` · `Scrum` · `Kanban` · `Waterfall` · `SDLC` · `ITIL` · `Change Management`
-
-**PM Tools**
-`Jira` · `Confluence` · `MS Project`
+**Languages**
+`Java` · `Python` · `Go` · `JavaScript/TypeScript` · `SQL`
 
 **AI / ML**
 `LangGraph` · `RAG` · `LLM Orchestration` · `LLM Evaluation` · `Vector Databases` · `Guardrails`
 
 **Backend & Distributed Systems**
-`Java` · `Python` · `Go` · `Spring Boot` · `Kafka` · `Microservices` · `REST APIs` · `GraphQL`
+`Spring Boot` · `Kafka` · `Microservices` · `REST APIs` · `GraphQL` · `gRPC` · `Redis` · `Event-Driven Architecture`
+
+**Databases**
+`PostgreSQL` · `MySQL` · `MongoDB` · `DynamoDB` · `Cassandra`
 
 **Cloud & DevOps**
 `AWS` · `Google Cloud Platform` · `Docker` · `Kubernetes` · `Terraform` · `Jenkins` · `CI/CD` · `Datadog`
 
-**Databases**
-`PostgreSQL` · `MySQL` · `MongoDB` · `Redis`
+**Frontend**
+`React` · `Node.js`
+
+**Program Management & Delivery**
+`Roadmapping` · `Dependency & Risk Management` · `Release Management` · `Stakeholder Management` · `Agile/Scrum` · `Jira` · `Confluence`
